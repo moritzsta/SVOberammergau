@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763153685216",
+    "firebase_url": "https://svoberammergau.firebaseio.com",
+    "project_id": "svoberammergau",
+    "storage_bucket": "svoberammergau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763153685216:android:619b2a191862a3cd",
+        "android_client_info": {
+          "package_name": "de.svo.svoberammergau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763153685216-khk6qj28jm3k6vgnbi166su1s8vankq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.svo.svoberammergau",
+            "certificate_hash": "dee9c22876cc553fb4ddffefe9eee97e73da5ef8"
+          }
+        },
+        {
+          "client_id": "763153685216-vslkk78sp7dsoghbc93mlr9oga8kcqam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrT3rqXdR4ukadH9ZDNNR6Bx1NnuxXhWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763153685216-vslkk78sp7dsoghbc93mlr9oga8kcqam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
